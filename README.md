@@ -16,7 +16,9 @@ The analysis follows the strict logic defined in the course specifications:
 4.  **Output**: Generates a `5x1201` matrix (`fingers_erp_mean`) and visualizes the ERP waveforms.
 
 ## How to Run
+```bash
 python main.py
+```
 
 ### Prerequisites
 * Python 3.8+
@@ -25,3 +27,4 @@ python main.py
 ### Installation
 ```bash
 pip install numpy pandas matplotlib
+```
