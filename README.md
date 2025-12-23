@@ -1,5 +1,9 @@
 # MiniProject 2: Event-Related Potential (ERP) Analysis
 
+📎 Due Disclosure
+
+I used AI-based tools (such as ChatGPT) only for reviewing code, improving documentation, adding explanations, and helping format README files. Some parts of the code were written or autofilled with the assistance of AI tools, based on my own ideas, logic, and intended implementation. All conceptual understanding, design decisions, and the overall project structure were created by me, with AI serving as a supportive tool for clarity and refinement.
+
 ## Overview
 This project calculates the **Event-Related Potential (ERP)** for finger movements using ECoG (Electrocorticography) data. It implements a robust pipeline to align continuous brain signals with discrete movement events, averaging them to reveal the characteristic brain response for each of the five fingers.
 
